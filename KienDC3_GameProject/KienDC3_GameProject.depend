@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1683362620 source:d:\kiendc3_gameproject\function.cpp
+	"function.h"
+
+1683707065 source:d:\kiendc3_gameproject\main.cpp
+	"function.h"
+	"obstacle.h"
+	"Others.h"
+	"health_icon.h"
+	"menu.h"
+	"text.h"
+
+1683362618 d:\kiendc3_gameproject\function.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+	<vector>
+	<time.h>
+	<fstream>
+
+1677773528 source:d:\kiendc3_gameproject\baseobject.cpp
+	"baseobject.h"
+
+1677839728 d:\kiendc3_gameproject\baseobject.h
+	"function.h"
+
+1679321599 source:d:\kiendc3_gameproject\ammo.cpp
+	"Ammo.h"
+
+1679020878 d:\kiendc3_gameproject\ammo.h
+	"function.h"
+
+1683644830 d:\kiendc3_gameproject\maincharacter.h
+	"function.h"
+	"Ammo.h"
+
+1683706144 source:d:\kiendc3_gameproject\maincharacter.cpp
+	"mainCharacter.h"
+
+1683363241 d:\kiendc3_gameproject\obstacle.h
+	"function.h"
+	"Ammo.h"
+	"mainCharacter.h"
+
+1683363066 source:d:\kiendc3_gameproject\obstacle.cpp
+	"obstacle.h"
+
+1681483725 d:\kiendc3_gameproject\others.h
+	"function.h"
+
+1681746803 source:d:\kiendc3_gameproject\others.cpp
+	"Others.h"
+
+1680604748 source:d:\kiendc3_gameproject\health_icon.cpp
+	"health_icon.h"
+
+1679310702 d:\kiendc3_gameproject\health_icon.h
+	"function.h"
+	"mainCharacter.h"
+
+1683642576 source:d:\kiendc3_gameproject\menu.cpp
+	"menu.h"
+
+1683629236 d:\kiendc3_gameproject\menu.h
+	"function.h"
+
+1683702152 source:d:\kiendc3_gameproject\text.cpp
+	"text.h"
+
+1683642480 d:\kiendc3_gameproject\text.h
+	"function.h"
+
